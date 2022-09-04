@@ -11,11 +11,13 @@ A client named Maria requested that an analysis be done on the performance trend
 ![exclusion of 9th grade Thomas High School district and charter scores.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/exclusion%20of%209th%20grade%20Thomas%20High%20School%20district%20and%20charter%20scores.PNG)      
  
 * __How is the school summary affected?__
-  *  In the school summary, the percentage of students passing the math and reading standardized testing were extremely affected. Before the Thomas High School 9th grade testing scores were excluded, the percentage of students passing math was 93.27% and the percentage after the exclusion was 66.91%. The percentage of students passing reading was 97.31% initially and the percentage after the exclusion was 69.66%. This would lead to the overall percentage of students passing going from 90.95% to 65.08%. 
+  *  The school summary was slightly affected after the exclusion of the 9th grade testing scores from Thomas High School. The passing percentage of students for math went from 93.27% pre-exclusion to  93.19%. The passing percentage of students for reading went from 97.31% to 97.02%. The overall passing percentage of students went from 90.95% to 90.63%. 
   *  __School Summary Analysis Before Thomas High School 9th Grade Exclusion__
   ![no exclusion school analysis.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/no%20exclusion%20school%20analysis.PNG)
   *  __School Summary Analysis After Thomas High School 9th Grade Exclusion__ 
   ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
+*  __How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
+ * Even after the exclusion of the 9th grade testing scores from Thomas High School, the school still remains in the top 5 performing schools in overall passing percentage for standardized testing. 
     
 ## Summary
     
