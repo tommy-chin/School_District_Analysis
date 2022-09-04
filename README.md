@@ -6,7 +6,7 @@ A client named Maria requested that an analysis be done on the performance trend
 * How is the district summary affected? 
   * 
 ## Summary
-,,,
+    ,,,
   	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
 School Type					
 Charter	83.473852	83.896421	93.620830	96.586489	90.432244
