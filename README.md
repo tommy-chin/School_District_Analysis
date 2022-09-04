@@ -8,8 +8,8 @@ A client named Maria requested that an analysis be done on the performance trend
 ## Summary
     ,,,
   	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-School Type					
-Charter	83.473852	83.896421	93.620830	96.586489	90.432244
-District	76.956733	80.966636	66.548453	80.799062	53.672208
+   School Type					
+   Charter	83.473852	83.896421	93.620830	96.586489	90.432244
+   District	76.956733	80.966636	66.548453	80.799062	53.672208
   
     ,,,
