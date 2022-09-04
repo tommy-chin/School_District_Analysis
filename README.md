@@ -8,7 +8,7 @@ A client named Maria requested that an analysis be done on the performance trend
  ![initial district and charter scores.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/initial%20district%20and%20charter%20scores.PNG)
  #### District and Charter School Overall Summary After Thomas High School 9th Grade Exclusion
 ![exclusion of 9th grade Thomas High School district and charter scores.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/exclusion%20of%209th%20grade%20Thomas%20High%20School%20district%20and%20charter%20scores.PNG)
-     * Since Thomas High School is a charter school and not a district school, the overall district summary was not changed from the initial analysis and the new analysis.
+ * Since Thomas High School is a charter school and not a district school, the overall district summary was not changed from the initial analysis and the new analysis.
   
 * How is the school summary affected?
   *  In the school summary, the percentage of students passing the math and reading standardized testing were extremely affected. Before the Thomas High School 9th grade testing scores were excluded, the percentage of students passing math was 93.27% and the percentage after the exclusion was 66.91%. The percentage of students passing reading was 97.31% initially and the percentage after the exclusion was 69.66%. This would lead to the overall percentage of students passing going from 90.95% to 65.08%. 
