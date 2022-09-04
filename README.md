@@ -20,13 +20,13 @@ A client named Maria requested that an analysis be done on the performance trend
    * Even after the exclusion of the 9th grade testing scores from Thomas High School, the school still remains in the top 5 performing schools in overall passing    percentage for standardized testing. 
 * __How does replacing the ninth-grade scores affect the following:__
   *  Math and reading scores by grade
-    *   The math and reading scores by grade analysis was affected in that the Thomas High School 9th grade math and reading scores were replaced with nan.
+     *   The math and reading scores by grade analysis was affected in that the Thomas High School 9th grade math and reading scores were replaced with nan.
   *  Scores by school spending
-    *  The scores by school spending analysis was affected in that the average scores and percentage of students passing for reading, math, and overall were slightly lowered. 
+     *  The scores by school spending analysis was affected in that the average scores and percentage of students passing for reading, math, and overall were slightly lowered. 
   *  Scores by school size
-    *  The scores by school size analysis was affected since Thomas High School is classified as a medium sized school. All of the medium sized school testing scores and percentage of students passing were slightly lowered. 
+     *  The scores by school size analysis was affected since Thomas High School is classified as a medium sized school. All of the medium sized school testing scores and percentage of students passing were slightly lowered. 
   *  Scores by school type
-    *  The scores by school type analysis was affected since Thomas High School is classified as a charter school. The average testing scores and passing percentage of students were slightly lowered for charter schools. 
+     *  The scores by school type analysis was affected since Thomas High School is classified as a charter school. The average testing scores and passing percentage of students were slightly lowered for charter schools. 
   
     
 ## Summary
