@@ -18,6 +18,10 @@ A client named Maria requested that an analysis be done on the performance trend
   ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
 *  __How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?__
    * Even after the exclusion of the 9th grade testing scores from Thomas High School, the school still remains in the top 5 performing schools in overall passing    percentage for standardized testing. 
+   * __Top 5 Schools Before Thomas High School 9th Grade Exclusion__
+    ![top 5 schools before.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/top%205%20schools%20before.PNG)
+   * __Top 5 Schools After Thomas High School 9th Grade Exclusion__
+    ![top 5 schools after.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/top%205%20schools%20after.PNG)
 * __How does replacing the ninth-grade scores affect the following:__
   *  Math and reading scores by grade
      *   The math and reading scores by grade analysis was affected in that the Thomas High School 9th grade math and reading scores were replaced with nan.
