@@ -15,6 +15,7 @@ A client named Maria requested that an analysis be done on the performance trend
   *  __School Summary Analysis Before Thomas High School 9th Grade Exclusion__
   ![no exclusion school analysis.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/no%20exclusion%20school%20analysis.PNG)
   *  __School Summary Analysis After Thomas High School 9th Grade Exclusion__
-  ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy- chin/School_District_Analysis/tree/main/Resources#:~:text=school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
+   ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy-      chin/School_District_Analysis/tree/main/Resources#:~:text=school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
+    
 ## Summary
     
