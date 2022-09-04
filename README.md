@@ -5,9 +5,9 @@ A client named Maria requested that an analysis be done on the performance trend
 ## Results
 * How is the district summary affected? 
  * Since Thomas High School is a charter school and not a district school, the overall district summary was not changed from the initial analysis and the new analysis.
- #### District and Charter School Overall Summary Before Thomas High School 9th Grade Exclusion
+ * District and Charter School Overall Summary Before Thomas High School 9th Grade Exclusion
  ![initial district and charter scores.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/initial%20district%20and%20charter%20scores.PNG)
- #### District and Charter School Overall Summary After Thomas High School 9th Grade Exclusion
+ * District and Charter School Overall Summary After Thomas High School 9th Grade Exclusion
 ![exclusion of 9th grade Thomas High School district and charter scores.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/exclusion%20of%209th%20grade%20Thomas%20High%20School%20district%20and%20charter%20scores.PNG)
  
 * How is the school summary affected?
