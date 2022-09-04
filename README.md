@@ -13,6 +13,6 @@ A client named Maria requested that an analysis be done on the performance trend
 * __How is the school summary affected?__
   *  In the school summary, the percentage of students passing the math and reading standardized testing were extremely affected. Before the Thomas High School 9th grade testing scores were excluded, the percentage of students passing math was 93.27% and the percentage after the exclusion was 66.91%. The percentage of students passing reading was 97.31% initially and the percentage after the exclusion was 69.66%. This would lead to the overall percentage of students passing going from 90.95% to 65.08%. 
   *  ![no exclusion school analysis.PNG](https://github.com/tommy-chin/School_District_Analysis/blob/main/Resources/no%20exclusion%20school%20analysis.PNG)
-  *  ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy-chin/School_District_Analysis/tree/main/Resources#:~:text=school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
+  *  ![school analysis after exclusion of 9th thomas.PNG](https://github.com/tommy- chin/School_District_Analysis/tree/main/Resources#:~:text=school%20analysis%20after%20exclusion%20of%209th%20thomas.PNG)
 ## Summary
     
